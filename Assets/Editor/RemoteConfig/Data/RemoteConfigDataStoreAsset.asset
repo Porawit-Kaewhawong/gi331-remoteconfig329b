@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: Unity.RemoteConfig.Editor::Unity.RemoteConfig.Editor.RemoteConfigDataStore
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"0fc1b439-590e-4b8c-a2a1-dfa49a430810\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"isHalloween\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"3552c6bc-f79d-46b5-a66f-f5ce012ed7b9\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"isChristmas\",\r\n      \"type\": \"bool\",\r\n      \"value\": true\r\n   
+    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"0fc1b439-590e-4b8c-a2a1-dfa49a430810\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"isHalloween\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"3552c6bc-f79d-46b5-a66f-f5ce012ed7b9\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"isChristmas\",\r\n      \"type\": \"bool\",\r\n      \"value\": true\r\n   
+    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"06b36d05-e178-4617-802a-9fc639b2a276\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"d481a589-6400-43e3-ac7c-0fa247f179a0\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2026-11-09T18:36:56Z\",\r\n    \"updatedAt\":
+    \"2026-11-09T18:36:56Z\"\r\n  },\r\n  {\r\n    \"projectId\": \"06b36d05-e178-4617-802a-9fc639b2a276\",\r\n   
+    \"name\": \"development\",\r\n    \"id\": \"6fbfe26d-0017-4bcc-bcb8-059bbf702cdc\",\r\n   
+    \"isDefault\": false,\r\n    \"createdAt\": \"2026-11-09T18:39:15Z\",\r\n   
+    \"updatedAt\": \"2026-11-09T18:39:15Z\"\r\n  }\r\n]"
